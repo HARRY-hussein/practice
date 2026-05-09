@@ -15,3 +15,18 @@
  git push origin master
  git pull origin master
 ```
+
+## Python Foundation:
+
+- Primitive Variables
+- Function
+- Object
+- Class
+- Class deep dive
+- Operation & Conditions
+- Loops
+- Lists & Dictionaries (Data Structures)
+- Exception Handling (Try/Except)
+- Modules & Packages
+- Decorators
+- Working with Files
