@@ -1,32 +1,7 @@
-# PRACTICE PROJECT
+# Practice — Git & Python First Steps
 
-## GIT COMMANDS:
+My very first repository: a sandbox for learning the Git workflow (commit, branch, push) together with basic Python syntax.
+
+```bash
+python3 run.py
 ```
- git config --global user.name
- git config --global user.name "your_name"
- git config --global user.email "your_email@example.com"
- git init
- 
- git status
- git add .
- git commit -m "feat: Initial Setup"
-
- git remote add origin https://github_address
- git push origin master
- git pull origin master
-```
-
-## Python Foundation:
-
-- Primitive Variables
-- Function
-- Object
-- Class
-- Class deep dive
-- Operation & Conditions
-- Loops
-- Lists & Dictionaries (Data Structures)
-- Exception Handling (Try/Except)
-- Modules & Packages
-- Decorators
-- Working with Files
